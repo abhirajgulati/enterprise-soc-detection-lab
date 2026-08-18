@@ -36,6 +36,13 @@ Once monitoring was working, I used Kali Linux to simulate several Active Direct
 The environment included departmental OUs for **IT, HR and Finance**, security groups, test users, departmental file shares and Group Policy controls.
 
 ---
+## Full Project Report
+
+A condensed portfolio report documenting the complete lab build, security monitoring configuration, attack simulations, SOC investigations, and BloodHound analysis is available below.
+
+➡️ **[View the Enterprise SOC Detection Lab Report](docs/Enterprise_SOC_Lab.pdf)**
+
+> Detailed step-by-step implementation notes and troubleshooting evidence are maintained separately from the public portfolio.
 
 ## Technologies & Skills
 
